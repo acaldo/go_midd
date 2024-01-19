@@ -12,3 +12,4 @@ services:
     deploy:
       mode: replicated
       replicas: 1
+
